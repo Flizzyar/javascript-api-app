@@ -47,7 +47,7 @@
 /* 1.1 Importerar eget typsnitt */
 @font-face {
     font-family: AlanSans;
-    src: url(/fonts/AlanSans-Regular.ttf) format('truetype');
+    src: url(./fonts/AlanSans-Regular.ttf) format('truetype');
 }
 
 /* ============================================================
@@ -80,7 +80,7 @@ header {
     display: flex;
     justify-content: space-between;
     background-color: #8b7566;
-    background-image: url(/images/hero2.jpg);
+    background-image: url(./images/hero2.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
